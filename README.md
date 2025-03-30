@@ -8,6 +8,7 @@ class Array
 		int arr[N];	
 		int size;
 	
+	// Array read and show
 	public:
 		Array(int s)
 		{
